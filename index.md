@@ -31,8 +31,11 @@ to have so many questions. This page will try to answer most of your questions y
 
 --------------------------------------------
 
-### more coming soon
+### More coming soon
 
-## Have a new question which is not here!?
-[Click here to create a new question](https://github.com/Santhoshkumard11/Cognizant-New-Joiners-FAQs/issues/new/choose)
-- Please be specific in your question and provide appropriate details
+### Have a new question which is not here!?
+### [Click here to create a new question](https://github.com/Santhoshkumard11/Cognizant-New-Joiners-FAQs/issues/new/choose)
+Please be specific in your question and provide appropriate details
+
+
+![Santhosh in Cognizant Chennai Mepz 2022](https://media-exp1.licdn.com/dms/image/C4D22AQFWiPzzBbkAug/feedshare-shrink_800/0/1638244490923?e=1646870400&v=beta&t=IQC5pJ4rEqDNnwvZ3AfaXVZG5KII26TPTly4Ok6TZT8)
