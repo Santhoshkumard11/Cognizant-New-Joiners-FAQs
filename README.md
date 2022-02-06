@@ -15,13 +15,13 @@ This repo would give you all you need to know to kick-start your career with Cog
 
 # How to contribute
 - Fork the repo
-- Create a branch out of main
-- add your changes
+- Create a branch out of gh-pages branch
+  - add your changes to index.md
 - commit and push the changed
 - make a PR
 
 Once the PR is reviewed, a merge will take place to add your changes
 
-After your merge is done you need to add you name to the CONTRIBUTING.md file
+After your merge is done you need to add your details to the CONTRIBUTING.md file
 
 
